@@ -19,5 +19,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "liveServer.settings.port": 5501
 }

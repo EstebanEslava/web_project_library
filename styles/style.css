@@ -339,16 +339,14 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  display: flex;
   padding: 60px 80px;
+  color: white;
 }
 
 .footer__columns {
   display: flex;
   flex-wrap: wrap;
-  color: white;
-}
-.footer__column {
+  width: 100%;
 }
 
 .footer__column_content_hours {
@@ -396,6 +394,5 @@
 }
 
 .footer__copyright {
-  display: flex;
   margin-top: 100px;
 }
